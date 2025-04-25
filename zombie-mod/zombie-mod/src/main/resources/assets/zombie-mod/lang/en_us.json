@@ -1,0 +1,16 @@
+{
+    "${project_name}.config.zombies.speedMultiplier": "Zombie Speed Multiplier",
+    "${project_name}.config.zombies.speedMultiplier.tooltip": "How much faster zombies move (1.5 = 50% faster)",
+    
+    "${project_name}.config.zombies.minGroupSize": "Minimum Zombie Group Size",
+    "${project_name}.config.zombies.minGroupSize.tooltip": "Minimum number of zombies that spawn in a group",
+    
+    "${project_name}.config.zombies.maxGroupSize": "Maximum Zombie Group Size",
+    "${project_name}.config.zombies.maxGroupSize.tooltip": "Maximum number of zombies that spawn in a group",
+    
+    "${project_name}.config.zombies.spawnFrequencyMultiplier": "Zombie Spawn Frequency Multiplier",
+    "${project_name}.config.zombies.spawnFrequencyMultiplier.tooltip": "How much more frequently zombies spawn (2.0 = twice as often)",
+    
+    "${project_name}.config.zombies.detectionRangeMultiplier": "Zombie Detection Range Multiplier",
+    "${project_name}.config.zombies.detectionRangeMultiplier.tooltip": "How much farther zombies can detect players (2.0 = twice as far)"
+  }
